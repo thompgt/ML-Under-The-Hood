@@ -16,6 +16,16 @@ This repository provides step-by-step implementations for the following:
 - **Decision Trees**: A basic CART implementation using Gini impurity or Information Gain.
 - **K-Means Clustering**: Unsupervised learning for grouping similar data points.
 - **Multi-Layer Perceptron (MLP)**: A basic neural network with one hidden layer and backpropagation.
+- **Naive Bayes**: Gaussian Naive Bayes classification using probability density functions.
+- **Support Vector Machine (SVM)**: Linear SVM using Hinge Loss and Gradient Descent.
+- **Principal Component Analysis (PCA)**: Dimensionality reduction using eigenvalues and eigenvectors.
+- **Random Forest**: Ensemble learning via bagging and random feature selection.
+- **AdaBoost**: Ensemble boosting algorithm updating sample weights.
+- **Ridge Regression**: Linear regression with L2 regularization.
+- **Lasso Regression**: Linear regression with L1 regularization using Coordinate Descent.
+- **Gaussian Mixture Models (GMM)**: Soft clustering using Expectation-Maximization.
+- **DBSCAN**: Density-based spatial clustering.
+- **Agglomerative Hierarchical Clustering**: Bottom-up clustering approach.
 
 ## 🛠️ Installation
 
