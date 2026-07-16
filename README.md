@@ -32,7 +32,7 @@ This repository provides step-by-step implementations for the following:
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/[your-username]/ML-Under-The-Hood.git
+git clone https://github.com/thompgt/ML-Under-The-Hood.git
 cd ML-Under-The-Hood
 pip install -r requirements.txt
 ```
